@@ -13,11 +13,11 @@ In this course we will develop models to solve BI problem with the help of Artif
 
 
 
-** Assignments	8	20
-** Project	    	1	20
-** Midterm(s)	1	20
-** Final exam	1	40
-** Total (%)		100
+# Assignments	8	20
+# Project	    	1	20
+* Midterm(s)	1	20
+* Final exam	1	40
+* Total (%)		100
 
 
 
