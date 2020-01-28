@@ -1,1 +1,4 @@
-# cmpe 343
+# cmpe 343 Business Intelligence with Machine Learning
+
+
+
