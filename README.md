@@ -13,7 +13,9 @@ In this course we will develop models to solve BI problem with the help of Artif
 
 
 
-* Assignments	x8	%20
+* Assignments	(x8)	%20
+Online Test, Lab exerc. et.c
+
 * Project	    	%20
 * Midterm(s)	    %20
 * Final exam		%40
@@ -34,6 +36,9 @@ https://github.com/dmitriydligach/PyMLSlides
 Book Github
 https://github.com/rasbt/python-machine-learning-book-3rd-edition
 
+
+ECTS Page
+https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=11813538
 
 
 
