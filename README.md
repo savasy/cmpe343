@@ -1,4 +1,4 @@
-CMPE 343  Business Intelligence 
+CMPE 343 Introduction to Data Science 
 
 In this course we will develop models to solve BI problem with the help of Artificial Intelligence. Machine Learning will be the essential keys to solve the specific BI problems such as churn prediction, HR problem, text mining, computer vision etc.
 
