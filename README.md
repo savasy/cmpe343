@@ -5,11 +5,10 @@ In this course we will develop models to solve BI problem with the help of Artif
     • Machine Learning
     • Important tools and libraries  (python, pandas, numpy, sklearn)
     • Preprocessing steps
-    • Modeling
-    • Type of BI problems
+    • Modeling (Clustering, Classificaiton, Dim.Redcution,)
     • Performance measurement
-    • Projects
-    • Presentations
+    • Modeling with Gradio https://gradio.app/
+    
 
 
 
@@ -27,14 +26,6 @@ Online Test, Lab exerc. et.c
 Official Github
 https://github.com/savasy/cmpe343/
 
-Book 
-https://sebastianraschka.com/books.html
-
-Slides
-https://github.com/dmitriydligach/PyMLSlides
-
-Book Github
-https://github.com/rasbt/python-machine-learning-book-3rd-edition
 
 
 ECTS Page
