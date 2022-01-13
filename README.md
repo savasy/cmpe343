@@ -1,4 +1,4 @@
-CMPE 343 Introduction to Data Science 
+CMPE 343 Introduction to Data Science and CMPE 251 Data Science for Social Media Analysis
 
 In this course we will develop models to solve BI problem with the help of Artificial Intelligence. Machine Learning will be the essential keys to solve the specific BI problems such as churn prediction, HR problem, text mining, computer vision etc.
 
